@@ -1,2 +1,3 @@
 # ZLBaseProject
-iOS工程模版
+
+MVC架构的iOS工程模版
